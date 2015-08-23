@@ -53,7 +53,7 @@ Is used as a badge with the following markup:
 
 ```html
 <iframe
-  width="178px" height="20px" style="border:0px"
+  width="178" height="24" style="border:0px"
   src="http://mixonic.github.io/ember-community-versions/2015/05/13/previewing-ember-2-0-on-canary.html">
 </iframe>
 ```
