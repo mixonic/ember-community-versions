@@ -1,20 +1,34 @@
----
-layout: default
----
-<a href="">
-<svg xmlns="http://www.w3.org/2000/svg" width="178" height="20">
-  <linearGradient id="a" x2="0" y2="100%">
-    <stop offset="0" stop-color="#bbb" stop-opacity=".1"/><stop offset="1" stop-opacity=".1"/>
-  </linearGradient>
-  <rect rx="3" width="178" height="20" fill="#555"/>
-  <rect rx="3" x="102" width="76" height="20" fill="#fe845a"/>
-  <path fill="#fe845a" d="M102 0h4v20h-4z"/>
-  <rect rx="3" width="178" height="20" fill="url(#a)"/>
-  <g fill="#fff" text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="11">
-    <text x="52" y="15" fill="#010101" fill-opacity=".3">ember-versions</text>
-    <text x="52" y="14">ember-versions</text>
-    <text x="138" y="15" fill="#010101" fill-opacity=".3">{{page.versions}}</text>
-    <text x="138" y="14">{{page.versions}}</text>
-  </g>
-</svg>
-</a>
+<!DOCTYPE html>
+<html>
+  <head>
+    <style type="text/css">
+      html, body {
+        margin: 0;
+        padding: 0;
+        background: transparent;
+      }
+      a {
+        text-decoration: none;
+      }
+    </style>
+  </head>
+  <body>
+    <a target="_blank" href="https://github.com/mixonic/ember-community-versions">
+    <svg xmlns="http://www.w3.org/2000/svg" width="178" height="20">
+      <linearGradient id="a" x2="0" y2="100%">
+        <stop offset="0" stop-color="#bbb" stop-opacity=".1"/><stop offset="1" stop-opacity=".1"/>
+      </linearGradient>
+      <rect rx="3" width="178" height="20" fill="#555"/>
+      <rect rx="3" x="102" width="76" height="20" fill="#fe845a"/>
+      <path fill="#fe845a" d="M102 0h4v20h-4z"/>
+      <rect rx="3" width="178" height="20" fill="url(#a)"/>
+      <g fill="#fff" text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="11">
+        <text x="52" y="15" fill="#010101" fill-opacity=".3">ember-versions</text>
+        <text x="52" y="14">ember-versions</text>
+        <text x="138" y="15" fill="#010101" fill-opacity=".3">{{page.versions}}</text>
+        <text x="138" y="14">{{page.versions}}</text>
+      </g>
+    </svg>
+    </a>
+  </body>
+</html>
