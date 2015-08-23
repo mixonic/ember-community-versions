@@ -52,7 +52,10 @@ _posts/2015-05-13-previewing-ember-2-0-on-canary.md
 Is used as a badge with the following markup:
 
 ```html
-<iframe width="178px" height="20px" style="border:0px" src="http://mixonic.github.io/ember-community-versions/2015/05/13/previewing-ember-2-0-on-canary.html"></iframe>
+<iframe
+  width="178px" height="20px" style="border:0px"
+  src="http://mixonic.github.io/ember-community-versions/2015/05/13/previewing-ember-2-0-on-canary.html">
+</iframe>
 ```
 
 Please help ensure your own blog posts are correctly flagged by add a badge
