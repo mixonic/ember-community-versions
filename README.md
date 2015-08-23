@@ -58,9 +58,10 @@ Is used as a badge with the following markup:
 </iframe>
 ```
 
-Please help ensure your own blog posts are correctly flagged by add a badge
+Please help ensure your own blog posts are correctly flagged by adding a badge
 when you publish.
 
 Linking to a URL that does not exist, such as before your
-PR with the new badge is merged, will simply result in a blank space. As
-soon as the PR is merged and GitHub pages updates, the badge will appear.
+PR with the new badge is merged, will result in a "pending" badge. As
+soon as the PR is merged and GitHub pages updates, the versioned badge will
+appear.
