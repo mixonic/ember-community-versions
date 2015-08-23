@@ -13,7 +13,7 @@ and posts that were accurate at the time, but have since been obsoleted.
 To ensure old content gets properly flagged, with no effort needed by the
 author, we've created a GitHub-driven badge service.
 
-<iframe width="178px" height="20px" style="border:0px" src="/2015/05/13/previewing-ember-2-0-on-canary.html"></iframe>
+<iframe width="178px" height="20px" style="border:0px" src="/ember-community-versions/2015/05/13/previewing-ember-2-0-on-canary.html"></iframe>
 
 Posts with this badge should work (without deprecation) when using an appropriate
 version of Ember.

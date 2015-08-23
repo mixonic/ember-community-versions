@@ -3,7 +3,7 @@ title: Ember Versions
 description: > # this means to ignore newlines until "baseurl:"
   ember-community-versions provides helpful badges with versioning
   information to community resources, like blog posts.
-# baseurl: "ember-community-versions"
+baseurl: "/ember-community-versions"
 # url: "http://mixonic.github.io"
 
 # Build settings
