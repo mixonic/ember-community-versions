@@ -7,7 +7,7 @@ and posts that were accurate at the time, but have since been obsoleted.
 
 To ensure old content gets properly flagged, with no effort needed by the
 author, we've created a GitHub-driven badge service. See
-[the user-friendly website](http://mixonic.github.io/ember-community-versions/)
+[the user-friendly website](https://mixonic.github.io/ember-community-versions/)
 for more details on the general idea.
 
 ## Updating a badge
@@ -54,7 +54,7 @@ Is used as a badge with the following markup:
 ```html
 <iframe
   width="178" height="24" style="border:0px"
-  src="http://mixonic.github.io/ember-community-versions/2015/05/13/previewing-ember-2-0-on-canary.html">
+  src="https://mixonic.github.io/ember-community-versions/2015/05/13/previewing-ember-2-0-on-canary.html">
 </iframe>
 ```
 
