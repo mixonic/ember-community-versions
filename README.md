@@ -20,7 +20,7 @@ Is stored at:
 
 * [\_posts/2015-05-13-previewing-ember-2-0-on-canary.md](https://github.com/mixonic/ember-community-versions/blob/gh-pages/_posts/2015-05-13-previewing-ember-2-0-on-canary.md)
 
-Versioning informations is store in the YAML front-matter of that post:
+Versioning information is stored in the YAML front-matter of that post:
 
 ```
 ---
