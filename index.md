@@ -32,7 +32,7 @@ start_version: "1.13"
 end_version: "2.0" # end_version is optional
 {% endhighlight %}
 
-Please help ensure your own blog posts are correctly flagged by add a badge
+Please help ensure your own blog posts are correctly flagged by adding a badge
 upon publication, even if you only provide a starting version. See
 [mixonic/ember-community-versions](https://github.com/mixonic/ember-community-versions)
 for more information.
